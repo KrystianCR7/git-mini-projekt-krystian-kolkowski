@@ -1,13 +1,11 @@
-# GitHub i SSH
+## GitHub i SSH
 
-Repozytorium można wysyłać na GitHub przez adres SSH w formacie:
+Repozytorium można wysyłać na GitHub przez adres SSH:
 
-```bash
 git@github.com:USER/REPO.git
-```
 
-Przed użyciem SSH należy mieć dodany klucz publiczny do konta GitHub i sprawdzić połączenie poleceniem:
+Aby używać SSH trzeba dodać klucz publiczny do GitHuba.
 
-```bash
+Sprawdzenie połączenia:
+
 ssh -T git@github.com
-```
