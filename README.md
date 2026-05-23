@@ -4,12 +4,14 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
-
+Imię i nazwisko: Krystian Kołkowski
+Klasa / grupa: 4TP
+ 
 ## Cel projektu
 
-Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pracy z Git oraz GitHub.
+Celem projektu jest nauka pracy z systemem kontroli wersji Git oraz platformą GitHub.  
+Podczas pracy uczę się tworzenia commitów, pracy na branchach, scalania zmian oraz 
+publikowania repozytorium online.
 
 ## Opis projektu
 
@@ -37,10 +39,15 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 - `feature/komendy-git`
 - `feature/interfejs-zadania`
 
+
 ## Historia pracy
 
-W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co zostało wykonane na poszczególnych branchach.
+W repozytorium wykonałem co najmniej 10 commitów, które pokazują kolejne etapy pracy 
+nad projektem. Najpierw inicjalizowałem repozytorium i dodałem starter projektu. 
+Następnie pracowałem na trzech branchach, gdzie każda gałąź odpowiadała za inną 
+część projektu (README, komendy Git oraz interfejs strony). Na końcu scaliłem wszystkie
+branche do głównej gałęzi main, dzięki czemu projekt jest spójny i kompletny.  
 
-## Link do repozytorium
+##Link do repozytorium
 
-Wklej link do publicznego repozytorium GitHub: ........................................
+Wklej link do publicznego repozytorium GitHub: https://github.com/KrystianCR7/git-mini-projekt-krystian-kolkowski
