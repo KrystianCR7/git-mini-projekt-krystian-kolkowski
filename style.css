@@ -43,6 +43,14 @@ body {
   margin: 8px 0;
 }
 
+.card h2 {
+  margin-top: 0;
+}
+
+.highlight {
+  border-left: 6px solid #1f4e79;
+}
+
 code {
   padding: 2px 5px;
   border-radius: 4px;
